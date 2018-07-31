@@ -9,4 +9,4 @@ Send me a message via GitHub. If things become too intense I may consider using 
 
 ## Contribution 
 
-Feel free to help me port to newer version of the engine.
+Feel free to message me if you have feature ideas or simply want to port the plugin to a newer version of the engine. I will make you a contributor.
