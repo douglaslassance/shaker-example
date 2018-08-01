@@ -1,6 +1,6 @@
 # Shaker Plugin Example Project
 
-This is an example Unreal Engine 4 project to demonstrate Shaker.
+This is an example Unreal Engine 4 project to demonstrate Shaker, a plugin inspired from the built-in camera shake system to shake actors in your levels.
 
 ## Usage
 
