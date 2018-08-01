@@ -1,12 +1,11 @@
 # Shaker Plugin for Unreal Engine 4
 
-Provides a scene component and a generic shake blueprint to shake anything and everything.
-Download the project to get a clearer idea on how to use the plugin.
+This is an example project to demonstrate Shaker. The plugin provides a scene component and a generic shake blueprint to shake anything and everything. Download the project to get a clearer idea on how to use the plugin.
 
 ## Support
 
-Send me a message via GitHub for any question. If things become too intense I may consider using GitHub issues.
+Feel free to use the issues pages to submit request or give feedback.
 
 ## Contribution 
 
-Feel free to message me if you have feature ideas or simply want to port the plugin to a newer version of the engine. I'll simply add you as a contributor.
+Feel free to message me if you want to implement new features or simply want to port the plugin to a newer version of the engine.
