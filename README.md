@@ -1,6 +1,10 @@
 # Shaker Plugin Example Project
 
-This is an example Unreal Engine 4 project to demonstrate Shaker. The plugin provides a scene component and a generic shake blueprint class to shake anything and everything in your level. Download the project to get a clearer idea on how to use the plugin.
+This is an example Unreal Engine 4 project to demonstrate Shaker.
+
+## Usage
+
+The plugin provides a scene component and a generic shake blueprint class used to define shake presets. Download the project to get a clearer idea on how to use the plugin.
 
 ## Support
 
