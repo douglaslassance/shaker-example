@@ -14,6 +14,10 @@
 *.xcuserstate
 *.xcworkspace
 *.xcworkspacedata
+.vsconfig
+/.idea
+/.vs
+/Source
 Binaries
 Build/Receipts
 Content/StarterContent/
